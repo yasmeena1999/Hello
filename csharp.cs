@@ -10,6 +10,8 @@ namespace HelloWorldApp {
               
           
             Console.WriteLine("Hello World!"); 
+            Console.WriteLine("Hello git!"); 
+
            
             Console.ReadKey(); 
         } 
